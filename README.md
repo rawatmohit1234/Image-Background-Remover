@@ -3,7 +3,7 @@
 A simple and interactive **Background Remover Web App** built with **HTML, CSS, and JavaScript** that uses an external API to remove the background from images.
 
 🔗 **Live Demo:**  
-https://rawcdn.githack.com/ranjeetchauhan123/Image-background-remover-js-/aa5e7f196ac3f34da231bc7bb7d7cce8b4cfd31d/index.html
+
 
 ---
 
